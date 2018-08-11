@@ -65,3 +65,4 @@ local.properties
 
 # Annotation Processing
 .apt_generated
+/servletdemo/target/
